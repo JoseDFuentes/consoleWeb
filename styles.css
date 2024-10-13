@@ -1,0 +1,15 @@
+:root {
+    background-color:black;
+}
+.container-link {
+
+    width: 600px;
+    height: 50px;
+    padding: 5px;
+
+
+}
+
+.container-link a {
+    color: white;
+}
