@@ -1,9 +1,9 @@
 [
-    {"Codigo": 1, "Alias":"MAMA", "Nombres": "Familia Cardona Gómez","Personas": 5,"Telefonos":"502 47797951", "Contacto": "Kandy"},
+    {"Codigo": 1, "Alias":"MAMA", "Nombres": "Familia Cardona Gómez","Personas": 5,"Telefonos":"502 47797951|502 55357800|502 55388978", "Contacto": "Kandy"},
     {"Codigo": 2, "Alias":"LUIS MAZARIEGOS", "Nombres": "Luis Mazariegos","Personas": 1,"Telefonos":"502 55357800", "Contacto": "Kandy"},
     {"Codigo": 4, "Alias":"TIA ORIS", "Nombres": "Familia Fuentes Gómez","Personas": 2,"Telefonos":"502 ", "Contacto": "Kandy"},
-    {"Codigo": 5, "Alias":"ROCIO", "Nombres": "Rocío y Dulce","Personas": 2,"Telefonos":"502 45046554|502 58972527", "Contacto": "Kandy"},
-    {"Codigo": 6, "Alias":"TIA THELMA", "Nombres": "Familia Ramírez Gómez","Personas": 3,"Telefonos":"502 42069133|502 42218250|502 58686350", "Contacto": "Kandy"},
+    {"Codigo": 5, "Alias":"ROCIO", "Nombres": "Rocío y Dulce","Personas": 2,"Telefonos":"502 45046554|502 48972527", "Contacto": "Kandy"},
+    {"Codigo": 6, "Alias":"TIA THELMA", "Nombres": "Familia Ramírez Gómez","Personas": 3,"Telefonos":"502 42069133|502 47641393|502 58687350", "Contacto": "Kandy"},
     {"Codigo": 7, "Alias":"TIA DALI", "Nombres": "Familia Orozco Gómez","Personas": 3,"Telefonos":"502 32951292", "Contacto": "Kandy"},
     {"Codigo": 8, "Alias":"TIA CATA", "Nombres": "Familia González Gómez","Personas": 3,"Telefonos":"502 ", "Contacto": "Kandy"},
     {"Codigo": 9, "Alias":"CASA ", "Nombres": "Familia Gómez","Personas": 5,"Telefonos":"502 ", "Contacto": "Kandy"},
